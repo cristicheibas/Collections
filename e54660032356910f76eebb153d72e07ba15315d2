@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad9bd40_13f7c58d",
+        "filename": "collections_exercise1/main.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1006039
+      },
+      "writtenOn": "2015-08-24T08:38:10Z",
+      "side": 1,
+      "message": "First comment in gerrit :)\nfor further commits: all these extra spaces (that are marked with red) shouldn\u0027t be in code",
+      "range": {
+        "startLine": 4,
+        "startChar": 61,
+        "endLine": 4,
+        "endChar": 62
+      },
+      "revId": "e54660032356910f76eebb153d72e07ba15315d2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
